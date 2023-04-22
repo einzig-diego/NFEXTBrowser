@@ -1,0 +1,6 @@
+move-file BrowserApp.exe Browser.exe
+move-file Microsoft.Web.WebView2.Core.dll Microsoft.Web.WebView2.Core.dll
+move-file Microsoft.Web.WebView2.Core.xml Microsoft.Web.WebView2.Core.xml
+move-file Microsoft.Web.WebView2.WinForms.dll Microsoft.Web.WebView2.WinForms.dll
+move-file Microsoft.Web.WebView2.WinForms.xml Microsoft.Web.WebView2.WinForms.xml
+move-folder runtimes runtimes
